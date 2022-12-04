@@ -415,7 +415,7 @@ opacity: 1;
     display: flex;
     justify-content: center;
     text-align: center;
-    background-image: url('./assets/images/Union 3.svg'); 
+    background-image: url('./public/assets/images/Union 3.svg'); 
     background-position: center;
     overflow: hidden;
   }
@@ -615,9 +615,7 @@ select {
     }
 
     .why {
-      flex-direction: column;
-      gap: 24px;
-      align-items: flex-start;
+      
     }
 
     .hashing {
@@ -715,6 +713,9 @@ select {
   }
   
   .why {
+    flex-direction: column;
+      gap: 24px;
+      align-items: flex-start;
     align-items: center;
     text-align: center;
   }
