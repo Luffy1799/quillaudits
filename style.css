@@ -1,7 +1,7 @@
 
 @font-face {
   font-family: "jost";
-  src: url(/assets/Jost/Jost-VariableFont_wght.ttf)
+  src: url(./assets/Jost/Jost-VariableFont_wght.ttf)
 }
 
 p,h1,h2,h3,h4 {
@@ -411,7 +411,7 @@ opacity: 1;
     display: flex;
     justify-content: center;
     text-align: center;
-    background-image: url('/assets/images/Union 3.svg'); 
+    background-image: url('./assets/images/Union 3.svg'); 
     background-position: center;
     overflow: hidden;
   }
