@@ -1,4 +1,4 @@
-import './style.css'
+
 
 var a1 = document.getElementById('a1');
 var a2 = document.getElementById('a2');
