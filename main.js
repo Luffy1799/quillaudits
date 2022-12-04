@@ -15,8 +15,6 @@ var i2 = document.getElementById('i2');
 var i3 = document.getElementById('i3');
 var i4 = document.getElementById('i4');
 
-
-
 q1.addEventListener("click", function(){ 
 
     if(a1.style.height == "0px") {
