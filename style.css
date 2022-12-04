@@ -219,6 +219,10 @@ opacity: 1;
     justify-content: space-around;
   }
 
+  .whyimg {
+    width: 60%;
+  }
+
   .list{
     display: none;
   }
